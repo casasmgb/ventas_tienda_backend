@@ -1,0 +1,11 @@
+{
+    "puerto":3900,
+    "database":{
+        "username":"",
+        "password":"",
+        "database":"db_comercio",
+        "host":"localhost",
+        "port":"27017",
+        "dialect": "mongodb"
+    }
+}
